@@ -4,6 +4,16 @@
 
 ## Features
 
+Inputdata()- Function for booking room in hotel by entering user/customer details.
+
+Roomrent()- Function to provide users/customers with hotel rooms information(i.e. about room amenities). 
+
+Foodpurchased()- Function for room service which provides user/customer with the restaurant’s menu card to order food at the room. 
+
+Totalbill()- Function for payment of hotel room and restaurant bill generation at the time of check-out. 
+
+
+
 
 ## Block diagram
 
@@ -26,3 +36,6 @@
 
 
 ## Reference
+
+1.Greeksforgreeks
+2.angel jude suarez,"Hotel Management System",itsourcecode.
