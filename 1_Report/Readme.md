@@ -1,5 +1,7 @@
 ## Introduction
 
+The Hotel Management System Project in Python is a general software developed (using Python) to simplify hotel operations by automating them.It covers major aspects of hotel management; it could perform the following operations- Hotel Booking, Provide you with Hotel Rooms Info, Room Service, Billing and Record-Keeping.
+
 
 
 ## Features
@@ -34,8 +36,11 @@ Totalbill()- Function for payment of hotel room and restaurant bill generation a
 
 ## Summary
 
+Hotel Management System is a system that created in python programming language, This system teach you on how to manage a hotel, and This system has 5 module, first is the main module which is can control all the module that given, second is the customer information module which is displayed the data or the information of the customer, third is the food purchased module which is displayed the list of foods that want to order by the customer, fourth is the room rent module which is displayed the type of room want to rent by the customer. and last is the hotel bill module which is this module displayed the total purchased of the customer.
+
 
 ## Reference
 
 1.Greeksforgreeks
+
 2.angel jude suarez,"Hotel Management System",itsourcecode.
